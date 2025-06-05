@@ -1,3 +1,5 @@
+active venv in the root directory "source venv/bin/activate"
+
 In the root directory:
 
 1. From first terminal run "python3 -m agent_langchain.main"
